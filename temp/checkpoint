@@ -1,0 +1,2 @@
+model_checkpoint_path: "callback_weight"
+all_model_checkpoint_paths: "callback_weight"
